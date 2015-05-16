@@ -1,8 +1,8 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : DT211-3 Network Programming
+subtitle    : Semester-1 2015/2016
+author      : Mark Deegan
+job         : Lecturer, Dublin Institute of Technology
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
